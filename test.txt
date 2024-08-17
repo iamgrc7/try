@@ -2,4 +2,8 @@ Hi
 Hlo
 I am good!
 How are you?
+<<<<<<< Updated upstream
 why?
+=======
+idk
+>>>>>>> Stashed changes
